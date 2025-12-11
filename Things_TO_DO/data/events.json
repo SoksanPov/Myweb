@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "title": "ពិធីបុណ្យចូលឆ្នាំខ្មែរ",
+        "short_desc": "ព្រឹត្តិការណ៍វប្បធម៌ដ៏ធំប្រចាំឆ្នាំ ដែលពោរពេញដោយការរាំលេង...",
+        "full_desc": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjhfbhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhgryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyfhhhhhhhhhhhhhhhhhhhhhhhhbgnb",
+        "main_image": "images/Dinner show2.jpg",
+        "gallery_images": [
+            "images/Denner show.jpg",
+            "images/Dinner show1.jpg",
+            "images/Dinner show2.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "មហោស្រពភាពយន្តខ្នាតធំ",
+        "short_desc": "ការបញ្ចាំងភាពយន្តបែបប្រវត្តិសាស្ត្រ និងសម័យទំនើប...",
+        "full_desc": "ចូលរួមទស្សនាមហោស្រពភាពយន្តដែលប្រមូលផ្តុំអ្នកដឹកនាំ និងតារាសម្តែងល្បីៗមកពីទូទាំងប្រទេស។ ព្រឹត្តិការណ៍នេះធ្វើឡើងនៅរោងភាពយន្តជាតិ។",
+        "main_image": "images/event_b_main.jpg",
+        "gallery_images": [
+            "images/event_b_gal1.jpg",
+            "images/event_b_gal2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "ការប្រគុំតន្ត្រីសម័យថ្មី",
+        "short_desc": "ការប្រគុំតន្ត្រីជាមួយតារាចម្រៀងល្បីៗប្រចាំប្រទេសកម្ពុជា...",
+        "full_desc": "រីករាយជាមួយការប្រគុំតន្ត្រីដ៏អស្ចារ្យដែលបង្ហាញពីការរួមបញ្ចូលគ្នារវាងតន្ត្រីបុរាណ និងតន្ត្រីសម័យទំនើប ក្រោមពន្លឺភ្លើងចម្រុះពណ៌។",
+        "main_image": "images/event_c_main.jpg",
+        "gallery_images": [
+            "images/event_c_gal1.jpg",
+            "images/event_c_gal2.jpg",
+            "images/event_c_gal3.jpg"
+        ]
+    },
+    { "id": 4, "title": "ពិព័រណ៍ផលិតផលក្នុងស្រុក", "short_desc": "ស្វែងរកផលិតផលខ្មែរគុណភាពខ្ពស់...", "full_desc": "ពិព័រណ៍នេះមានគោលបំណងលើកស្ទួយផលិតផលក្នុងស្រុក និងជួយដល់សហគមន៍ជនបទ។", "main_image": "images/event_d_main.jpg", "gallery_images": ["images/event_d_gal1.jpg"] },
+    { "id": 5, "title": "ថ្នាក់រៀនធ្វើម្ហូបខ្មែរ", "short_desc": "រៀនធ្វើមុខម្ហូបខ្មែរបុរាណជាមួយមេចុងភៅជំនាញ...", "full_desc": "ចូលរួមវគ្គបណ្តុះបណ្តាលខ្លីៗអំពីរបៀបធ្វើម្ហូបអាហារប្រពៃណីខ្មែរដែលមានរស់ជាតិឆ្ងាញ់។", "main_image": "images/event_e_main.jpg", "gallery_images": ["images/event_e_gal1.jpg", "images/event_e_gal2.jpg"] },
+    { "id": 6, "title": "ព្រឹត្តិការណ៍រត់ម៉ារ៉ាតុង", "short_desc": "ព្រឹត្តិការណ៍ប្រណាំងរត់ប្រចាំឆ្នាំដើម្បីសុខភាពសាធារណៈ...", "full_desc": "ការប្រណាំងនេះមានចម្ងាយជាច្រើនប្រភេទ ចាប់ពី 5km ដល់ 42km។ សូមចុះឈ្មោះឥឡូវនេះ!", "main_image": "images/event_f_main.jpg", "gallery_images": ["images/event_f_gal1.jpg"] },
+    { "id": 7, "title": "ពិធីបុណ្យអុំទូក", "short_desc": "ពិធីបុណ្យជាតិដ៏អស្ចារ្យនៅតាមដងទន្លេ...", "full_desc": "ការប្រារព្ធពិធីបុណ្យអុំទូកប្រចាំឆ្នាំដែលបង្ហាញពីការប្រណាំងទូកដ៏គួរឲ្យរំភើប និងការបណ្តែតប្រទីប។", "main_image": "images/event_g_main.jpg", "gallery_images": ["images/event_g_gal1.jpg", "images/event_g_gal2.jpg"] },
+    { "id": 8, "title": "វគ្គបណ្តុះបណ្តាលបច្ចេកវិទ្យា", "short_desc": "សិក្ខាសាលាស្តីពីបច្ចេកវិទ្យាឌីជីថលថ្មីៗ...", "full_desc": "សិក្ខាសាលារយៈពេលមួយថ្ងៃដើម្បីស្វែងយល់ពីនិន្នាការចុងក្រោយបំផុតនៅក្នុងវិស័យបច្ចេកវិទ្យាព័ត៌មាន។", "main_image": "images/event_h_main.jpg", "gallery_images": ["images/event_h_gal1.jpg"] },
+    { "id": 9, "title": "ការតាំងពិព័រណ៍គំនូរសិល្បៈ", "short_desc": "ការបង្ហាញស្នាដៃសិល្បៈពីសិល្បករក្នុងស្រុក...", "full_desc": "ការប្រមូលផ្ដុំគំនូរថ្មីៗ និងការរចនាម៉ូដសិល្បៈពីវិចិត្រករជំនាន់ក្រោយ។", "main_image": "images/event_i_main.jpg", "gallery_images": ["images/event_i_gal1.jpg", "images/event_i_gal2.jpg"] }
+]
